@@ -1,7 +1,7 @@
 # Restaurant-Landing-Page
 This is a modern, visually appealing Restaurant Landing Page designed to showcase a restaurant’s menu, promotions, and services. The page features a responsive design suitable for both desktop and mobile devices, providing an engaging experience for users.
 
-Features:
+🚀Features:
 
 Home Section: Highlighting current discounts and promotions.
 
@@ -17,11 +17,19 @@ Footer: Contains useful links (About, Services, Other) and social media icons.
 
 Order Now Buttons: Call-to-action buttons for user engagement.
 
-Technologies Used:
-
+🛠Technologies Used:
 
 HTML5
 
 CSS3
 
 Responsive Design for mobile-friendly layouts
+
+👩‍💻 Author
+
+Sualeha Creates
+
+Open to feedback and improvements!
+
+
+
